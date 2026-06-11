@@ -224,7 +224,8 @@ The project showcases disciplined validation logic for contact information integ
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sriharshaswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies public instance is currently down. Uncomment once self-hosted or working again. -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sriharshaswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
