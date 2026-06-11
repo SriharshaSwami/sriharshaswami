@@ -220,36 +220,11 @@ The project showcases disciplined validation logic for contact information integ
 
 ---
 
-## `$ cat ./trophies`
-
-<div align="center">
-
-<!-- Trophies public instance is currently down. Uncomment once self-hosted or working again. -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sriharshaswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-</div>
-
----
-
 ## `$ git log --graph --activity`
 
 <div align="center">
 
 [![Sriharsha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriharshaswami&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `$ watch ./contributions --snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sriharshaswami/sriharshaswami/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sriharshaswami/sriharshaswami/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sriharshaswami/sriharshaswami/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
