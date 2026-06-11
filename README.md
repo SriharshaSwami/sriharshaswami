@@ -1,280 +1,212 @@
-<div align="center">
+# <h1 align="center">Hi 👋, I'm Sriharsha Swami</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=Sriharsha%20Swami&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer+Aspirant;Building+Scalable+MERN+Applications;230%2B+LeetCode+Problems+Solved;Computer+Science+Undergraduate;Passionate+About+DSA+%26+Cloud+Computing" alt="Typing SVG" />
+</p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+Scalable+Full-Stack+Web+Applications;Passionate+About+DSA+%26+Problem+Solving;MERN+Stack+Developer+%7C+CS+Undergraduate)](https://git.io/typing-svg)
-
-<br/>
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-Anurag%20University-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-9.05%20%2F%2010-7c3aed?style=for-the-badge&logo=star&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2023--2027-4f46e5?style=for-the-badge&logo=calendar&logoColor=white)
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍%20Hyderabad-Telangana,%20India-6d28d9?style=flat-square&logoColor=white)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriharsha-swami)
-[![Email](https://img.shields.io/badge/Gmail-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriharshaswamy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriharshaswami)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sriharshaswami&color=7c3aed&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sriharshaswami?color=6d28d9&style=flat-square&logo=github&label=Followers)
-
-</div>
+<p align="center">
+  <a href="https://github.com/sriharshaswami">
+    <img src="https://img.shields.io/github/followers/sriharshaswami?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sriharshaswami">
+    <img src="https://img.shields.io/github/stars/sriharshaswami?affiliations=OWNER&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## `$ whoami`
+## 🚀 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshaswami&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8"/>
+🎓 B.Tech Computer Science Undergraduate at **Anurag University**
 
-Computer Science undergraduate at **Anurag University** with strong foundations in **Data Structures and Algorithms** and hands-on experience engineering production-grade full-stack web applications. I architect systems end-to-end — from designing secure RESTful APIs and role-based authentication flows to building responsive React frontends deployed on cloud infrastructure.
+💻 Full Stack Developer passionate about building scalable and impactful applications.
 
-My engineering approach is rooted in writing clean, maintainable code and solving complex problems systematically. I'm currently deepening my algorithmic expertise through consistent competitive programming practice alongside building real-world MERN stack projects.
+🧠 Strong foundation in **Data Structures & Algorithms** with **230+ LeetCode problems solved**.
 
-I believe great software is built at the intersection of strong fundamentals, deliberate design, and relentless iteration.
+⚡ Experienced in designing REST APIs, authentication systems, real-time applications, and cloud deployments.
 
-<br/>
+🎯 Aspiring Software Engineer focused on building scalable applications, backend systems, and impactful software products.
 
-**🔭 Open To:**
-- Software Engineering Internships (SDE / Full Stack)
-- Open Source Contributions
-- Collaborative Projects in Web & Systems
-
-<br clear="right"/>
+📍 Hyderabad, Telangana, India
 
 ---
 
-## `$ ls ./tech-stack`
+## 🌟 Interests
 
-<div align="center">
-
-### ◈ Languages
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,java&theme=dark)](https://skillicons.dev)
-
-### ◈ Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)](https://skillicons.dev)
-
-### ◈ Backend & Databases
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)](https://skillicons.dev)
-
-### ◈ Cloud, DevOps & Tooling
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark)](https://skillicons.dev)
-
-![Render](https://img.shields.io/badge/Render-Deploy-46E3B7?style=flat-square&logo=render&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Cloud-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-Design-6d28d9?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
+* Data Structures & Algorithms
+* Full Stack Development
+* Software Engineering
+* Artificial Intelligence
+* Cloud Computing
 
 ---
 
-## `$ cat ./expertise.yaml`
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Full Stack Web Development** | ████████░░ Advanced | MERN Stack — React, Node.js, Express.js, MongoDB |
-| **RESTful API Design** | ████████░░ Advanced | Stateless endpoints, JWT auth, protected routes |
-| **Authentication & Security** | ███████░░░ Proficient | JWT-based auth, RBAC, bcrypt password hashing |
-| **Data Structures & Algorithms** | ███████░░░ Proficient | 230+ LeetCode problems, Arrays, Trees, Graphs, DP |
-| **Database Design** | ███████░░░ Proficient | MongoDB Atlas schema design, MySQL relational modeling |
-| **UI/UX Engineering** | ██████░░░░ Intermediate | Tailwind CSS, responsive layouts, component architecture |
-| **Cloud Deployment** | ██████░░░░ Intermediate | Vercel (frontend), Render (backend), Atlas (DB) |
-| **Object-Oriented Programming** | ███████░░░ Proficient | Java & Python OOP principles, design patterns |
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-</div>
+### Frontend
 
----
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-## `$ ls ./projects --detailed`
+### Backend
 
-<details>
-<summary><b>⬡ Canteen Management System — MERN Stack (2026)</b></summary>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
 
-<br/>
+### Databases
 
-A production-grade full-stack canteen management platform built with the MERN stack, enabling end-to-end digital canteen operations for institutions. The system provides a seamless ordering experience for users alongside a comprehensive admin dashboard for inventory and transaction management.
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-The architecture follows a separation-of-concerns pattern with a React.js SPA on the frontend consuming a stateless Express.js REST API backed by MongoDB Atlas. Security is enforced via JWT-based authentication with route-level guards, ensuring role-specific access throughout the application. The deployment pipeline leverages Vercel for frontend CDN delivery and Render for scalable backend hosting.
+### Tools
 
-| Attribute | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB Atlas, Tailwind CSS |
-| **Scale** | Full-stack cloud-hosted application (Vercel + Render) |
-| **Security** | JWT authentication, bcrypt password hashing, protected API routes |
-| **Architecture** | Role-Based Access Control (Admin / User), RESTful API design |
-| **Features** | Menu CRUD, order placement, credit balance tracking, transaction history |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sriharshaswami) [![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=vercel&logoColor=black)](https://github.com/sriharshaswami) |
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>⬡ Student Record Management System — Systems Programming (2023–2024)</b></summary>
-
-<br/>
-
-A robust student record management system engineered in C, demonstrating strong fundamentals in systems programming, data validation, and modular software design. Built without external libraries, the system implements core record operations from scratch using file I/O and structured data management.
-
-The project showcases disciplined validation logic for contact information integrity, a flexible schema accommodating both academic and personal student data, and a clean CLI interface designed for operational use. Emphasis was placed on data integrity, edge-case handling, and the discipline of writing maintainable low-level code.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | C (Standard Library), File I/O, Struct-based Data Modeling |
-| **Scale** | Command-line application for institutional record management |
-| **Performance** | Optimized search, add, and delete operations with validation |
-| **Security** | Input validation for email and phone number integrity |
-| **Impact** | Demonstrates mastery of low-level programming and data handling |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sriharshaswami) |
-
-<br/>
-
-</details>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-## `$ cat ./achievements.md`
+## 🚀 Featured Projects
 
-<div align="center">
+### 🛡️ TaxExpense Planner
 
-| 🏆 Recognition | Details |
-|:---:|:---|
-| **LeetCode Problem Solver** | Solved **230+ problems** across Arrays, Strings, Trees, Graphs, and Dynamic Programming |
-| **Academic Excellence** | Maintained **CGPA 9.05 / 10.0** in B.Tech Computer Science coursework |
-| **Hackathon Participant** | Competed in **Tech Hack 3** (AI/ML Domain) at Anurag University |
-| **eSports Champion** | In-Game Leader (IGL) for BGMI team — **won multiple university-level tournaments** |
-| **eSports Recognition** | Participated in eSports tournament at **Daksha Fest** by Game Development Club |
-| **Sports Achievement** | Represented school **Kabaddi team** — won multiple inter-school tournaments |
+A production-ready MERN-based wealth strategy platform that helps users compare Indian tax regimes, track savings goals, audit recurring expenses, and gain AI-driven spending insights.
 
-</div>
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+
+🔗 Repository: https://github.com/SriharshaSwami/tax-expense-tracker
+
+🌐 Live Demo: https://tax-expense-tracker.vercel.app/
 
 ---
 
-## `$ ls ./certifications`
+### 💬 Sleek Chat
 
-<div align="center">
+A Slack-inspired real-time chat platform featuring channels, direct messaging, JWT authentication, media sharing, emoji support, online presence tracking, and WebSocket-powered communication.
 
-### ◈ NPTEL — IIT Madras
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO
 
-![NPTEL](https://img.shields.io/badge/Introduction%20to%20Operating%20Systems-NPTEL%20%7C%20IIT%20Madras%20(2025)-7c3aed?style=for-the-badge&logo=academia&logoColor=white)
+🔗 Repository: https://github.com/SriharshaSwami/slack-clone-chat
 
-### ◈ Infosys Springboard
-
-![Infosys](https://img.shields.io/badge/Database%20Management%20System%20%26%20SQL%3A%20Complete%20Pack-Infosys%20Springboard-4f46e5?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ◈ Cisco Networking Academy
-
-![Cisco](https://img.shields.io/badge/Networking%20Essentials-Cisco%20Networking%20Academy-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
-
-### ◈ Microsoft
-
-![Microsoft](https://img.shields.io/badge/Learn%20AI%20and%20GenAI%20Basics-Microsoft-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
+🌐 Live Demo: https://sleek-chat-one.vercel.app/
 
 ---
 
-## `$ open ./coding-profiles`
+## 📊 GitHub Stats
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sriharshaswami)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sriharshaswami)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/sriharshaswami)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sriharshaswami)
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharshaswami&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## `$ git log --analytics`
+## 💻 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sriharshaswami&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sriharshaswami&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6d28d9" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshaswami&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=10" height="160"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshaswami&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## `$ git log --graph --activity`
+## 🔥 GitHub Streak
 
-<div align="center">
-
-[![Sriharsha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriharshaswami&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sriharshaswami&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-## `$ cat ./current-focus.yaml`
+## 🏆 GitHub Trophies
 
-```yaml
-current_focus:
-  learning:
-    - Advanced Data Structures & Algorithms (Graphs, DP, Segment Trees)
-    - System Design Fundamentals
-    - TypeScript & Next.js for modern full-stack development
-    - Computer Networks & Operating System internals
-
-  building:
-    - Scalable MERN stack web applications
-    - RESTful API systems with JWT authentication
-    - Cloud-deployed projects with Vercel and Render
-
-  exploring:
-    - Generative AI & LLM integration into web apps
-    - Database optimization & indexing strategies
-    - Open source contributions
-
-  open_to:
-    - Software Engineering Internships (SDE / Full Stack)
-    - Collaborative open source projects
-    - Hackathons & competitive programming
-    - Mentorship and knowledge-sharing communities
-```
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sriharshaswami&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## `$ ping ./connect`
+## 📚 Currently Learning
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/sriharshaswamy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriharshaswamy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fsriharsha--swami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriharsha-swami)
-[![GitHub](https://img.shields.io/badge/github.com%2Fsriharshaswami-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriharshaswami)
-
-</div>
+* Advanced Data Structures & Algorithms
+* Graph Algorithms
+* Cloud Computing
+* Full Stack System Design
 
 ---
 
-<div align="center">
+## 🏅 Achievements & Certifications
 
-*"The best code is not the code that works — it's the code that others can read, maintain, and build upon."*
+🏆 Solved 230+ LeetCode Problems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
+🏆 Maintained CGPA of 9.05 / 10
 
-</div>
+🏆 Participated in Tech Hack 3 Hackathon (AI/ML)
+
+📜 NPTEL — Introduction to Operating Systems
+
+📜 Infosys Springboard — DBMS & SQL
+
+📜 Cisco Networking Academy — Networking Essentials
+
+📜 Microsoft — Learn AI & GenAI Basics
+
+---
+
+## 🤝 Open To Collaborate On
+
+* Open Source Projects
+* Full Stack Applications
+* Research Projects
+* Startup Ideas
+* Software Engineering Projects
+
+---
+
+## ⚡ Fun Fact
+
+🎮 Solved 230+ LeetCode problems while maintaining a 9.05 CGPA and competed as a BGMI in-game leader (IGL), winning multiple university-level tournaments.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sriharsha-swami">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sriharshaswamy@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1fU1gw_68Q0LUnDeRGfAY0s_wRC3mnUSb/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sriharshaswami/sriharshaswami/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
