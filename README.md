@@ -136,11 +136,13 @@ A Slack-inspired real-time chat platform featuring channels, direct messaging, J
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sriharshaswami&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
+- 🚀 Built and deployed multiple full-stack MERN applications
+- 💡 Solved 230+ LeetCode problems
+- 🎓 Maintaining a 9.05 CGPA in Computer Science
+- 🤖 Participated in AI/ML Hackathons
+- 🎮 University-level BGMI tournament winner and IGL
 
 ---
 
