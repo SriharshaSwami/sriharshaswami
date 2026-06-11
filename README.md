@@ -192,7 +192,7 @@ A Slack-inspired real-time chat platform featuring channels, direct messaging, J
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sriharsha-swami">
+<a href="https://www.linkedin.com/in/sriharsha-swami-575bb7286">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
