@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Sriharsha Swami</h1>
+# <h1 align="center">👋 Hi, I'm Sriharsha Swami</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer+Aspirant;Building+Scalable+MERN+Applications;230%2B+LeetCode+Problems+Solved;Computer+Science+Undergraduate;Passionate+About+DSA+%26+Cloud+Computing" alt="Typing SVG" />
